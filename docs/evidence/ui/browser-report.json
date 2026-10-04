@@ -1,0 +1,1078 @@
+{
+  "exportedAt": "2026-10-04T17:00:08.671Z",
+  "appliedQuery": {
+    "kind": "point",
+    "longitude": 107.29700509151542,
+    "latitude": -7.06424324594125,
+    "offset": 0
+  },
+  "selectedPolygon": {
+    "provinsi": "Jawa Barat",
+    "id_wetla_lito": "WETLA-144",
+    "deskripsi_iklim": "Basah",
+    "kabupaten_kota": "Bandung Barat",
+    "deskripsi_elevasi": ">800 m dpl",
+    "penggunaan_lahan_22": "Hutan Lahan Kering Sekunder",
+    "kode_wetla_kba": "F3-W4-E3-LK",
+    "deskripsi_wetla_lito": "Tinggi-Basah->800 m dpl-Lahan Kering",
+    "deskripsi_subur_lito": "Tinggi",
+    "kode_wetla_lito": "F5-W4-E3-LK",
+    "kecamatan": "Gununghalu",
+    "id_wetla_kba": "WETLA-096",
+    "deskripsi_wetla_kba": "Sedang-Basah->800 m dpl-Lahan Kering",
+    "deskripsi_subur_kba": "Sedang",
+    "objectid": 2893,
+    "deskripsi_kebasahan": "Lahan Kering"
+  },
+  "method": "lito",
+  "recommendation": {
+    "rows": [
+      {
+        "status_pencocokan": "Lito Gradasi 1",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Kayu Putih Kuning",
+        "nama_latin": "Melaleuca 'Revolution Gold'",
+        "objectid": 132,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "Lito Gradasi 1",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Janda Merana",
+        "nama_latin": "Salix babylonica",
+        "objectid": 392,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "Lito Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Dracaena ‘Song of India’",
+        "nama_latin": "Dracaena reflexa 'Song of India'",
+        "objectid": 1108,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "Lito Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Dracaena 'Song of Jamaica'",
+        "nama_latin": "Dracaena reflexa 'Song of Jamaica'",
+        "objectid": 1138,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "Lito Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Kayu Putih Kuning",
+        "nama_latin": "Melaleuca 'Revolution Gold'",
+        "objectid": 1198,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "Lito Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Pucuk Merah",
+        "nama_latin": "Syzygium myrtifolium",
+        "objectid": 1297,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "Lito Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Sikat Botol",
+        "nama_latin": "Callistemon viminalis",
+        "objectid": 1342,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "Lito Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Janda Merana",
+        "nama_latin": "Salix babylonica",
+        "objectid": 1756,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "Lito Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Leda/Pohon Pelangi",
+        "nama_latin": "Eucalyptus deglupta",
+        "objectid": 2029,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "Lito Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Kiara Payung",
+        "nama_latin": "Filicium decipiens",
+        "objectid": 2122,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "Lito Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Biola Cantik",
+        "nama_latin": "Ficus lyrata",
+        "objectid": 2167,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "Lito Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Kecrutan",
+        "nama_latin": "Spathodea campanulata",
+        "objectid": 2407,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "Lito Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Pohon Beringin",
+        "nama_latin": "Ficus benjamina",
+        "objectid": 2782,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "KBA Gradasi 1",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Kayu Putih Kuning",
+        "nama_latin": "Melaleuca 'Revolution Gold'",
+        "objectid": 3064,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "KBA Gradasi 1",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Janda Merana",
+        "nama_latin": "Salix babylonica",
+        "objectid": 3234,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "KBA Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Dracaena ‘Song of India’",
+        "nama_latin": "Dracaena reflexa 'Song of India'",
+        "objectid": 3690,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "KBA Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Dracaena 'Song of Jamaica'",
+        "nama_latin": "Dracaena reflexa 'Song of Jamaica'",
+        "objectid": 3708,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "KBA Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Kayu Putih Kuning",
+        "nama_latin": "Melaleuca 'Revolution Gold'",
+        "objectid": 3744,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "KBA Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Pucuk Merah",
+        "nama_latin": "Syzygium myrtifolium",
+        "objectid": 3807,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "KBA Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Sikat Botol",
+        "nama_latin": "Callistemon viminalis",
+        "objectid": 3834,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "KBA Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Janda Merana",
+        "nama_latin": "Salix babylonica",
+        "objectid": 4086,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "KBA Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Leda/Pohon Pelangi",
+        "nama_latin": "Eucalyptus deglupta",
+        "objectid": 4257,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "KBA Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Kiara Payung",
+        "nama_latin": "Filicium decipiens",
+        "objectid": 4302,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "KBA Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Biola Cantik",
+        "nama_latin": "Ficus lyrata",
+        "objectid": 4329,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "KBA Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Kecrutan",
+        "nama_latin": "Spathodea campanulata",
+        "objectid": 4473,
+        "deskripsi_kebasahan": "Lahan Kering"
+      },
+      {
+        "status_pencocokan": "KBA Gradasi 2",
+        "deskripsi_iklim": "Curah hujan – Basah",
+        "deskripsi_subur": "Kesuburan tanah – Tinggi",
+        "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+        "id_wetla": "WETLA-144",
+        "nama_tanaman": "Pohon Beringin",
+        "nama_latin": "Ficus benjamina",
+        "objectid": 4716,
+        "deskripsi_kebasahan": "Lahan Kering"
+      }
+    ],
+    "plants": [
+      {
+        "id": "[\"kayu putih kuning\",\"melaleuca 'revolution gold'\"]",
+        "name": "Kayu Putih Kuning",
+        "latin": "Melaleuca 'Revolution Gold'",
+        "statuses": [
+          "Lito Gradasi 1",
+          "Lito Gradasi 2"
+        ],
+        "assignmentIds": [
+          "132",
+          "1198"
+        ],
+        "climate": "Curah hujan – Basah",
+        "wetness": "Lahan Kering",
+        "elevation": "Elevasi – Dataran Tinggi",
+        "fertility": "Kesuburan tanah – Tinggi"
+      },
+      {
+        "id": "[\"janda merana\",\"salix babylonica\"]",
+        "name": "Janda Merana",
+        "latin": "Salix babylonica",
+        "statuses": [
+          "Lito Gradasi 1",
+          "Lito Gradasi 2"
+        ],
+        "assignmentIds": [
+          "392",
+          "1756"
+        ],
+        "climate": "Curah hujan – Basah",
+        "wetness": "Lahan Kering",
+        "elevation": "Elevasi – Dataran Tinggi",
+        "fertility": "Kesuburan tanah – Tinggi"
+      },
+      {
+        "id": "[\"dracaena ‘song of india’\",\"dracaena reflexa 'song of india'\"]",
+        "name": "Dracaena ‘Song of India’",
+        "latin": "Dracaena reflexa 'Song of India'",
+        "statuses": [
+          "Lito Gradasi 2"
+        ],
+        "assignmentIds": [
+          "1108"
+        ],
+        "climate": "Curah hujan – Basah",
+        "wetness": "Lahan Kering",
+        "elevation": "Elevasi – Dataran Tinggi",
+        "fertility": "Kesuburan tanah – Tinggi"
+      },
+      {
+        "id": "[\"dracaena 'song of jamaica'\",\"dracaena reflexa 'song of jamaica'\"]",
+        "name": "Dracaena 'Song of Jamaica'",
+        "latin": "Dracaena reflexa 'Song of Jamaica'",
+        "statuses": [
+          "Lito Gradasi 2"
+        ],
+        "assignmentIds": [
+          "1138"
+        ],
+        "climate": "Curah hujan – Basah",
+        "wetness": "Lahan Kering",
+        "elevation": "Elevasi – Dataran Tinggi",
+        "fertility": "Kesuburan tanah – Tinggi"
+      },
+      {
+        "id": "[\"pucuk merah\",\"syzygium myrtifolium\"]",
+        "name": "Pucuk Merah",
+        "latin": "Syzygium myrtifolium",
+        "statuses": [
+          "Lito Gradasi 2"
+        ],
+        "assignmentIds": [
+          "1297"
+        ],
+        "climate": "Curah hujan – Basah",
+        "wetness": "Lahan Kering",
+        "elevation": "Elevasi – Dataran Tinggi",
+        "fertility": "Kesuburan tanah – Tinggi"
+      },
+      {
+        "id": "[\"sikat botol\",\"callistemon viminalis\"]",
+        "name": "Sikat Botol",
+        "latin": "Callistemon viminalis",
+        "statuses": [
+          "Lito Gradasi 2"
+        ],
+        "assignmentIds": [
+          "1342"
+        ],
+        "climate": "Curah hujan – Basah",
+        "wetness": "Lahan Kering",
+        "elevation": "Elevasi – Dataran Tinggi",
+        "fertility": "Kesuburan tanah – Tinggi"
+      },
+      {
+        "id": "[\"leda/pohon pelangi\",\"eucalyptus deglupta\"]",
+        "name": "Leda/Pohon Pelangi",
+        "latin": "Eucalyptus deglupta",
+        "statuses": [
+          "Lito Gradasi 2"
+        ],
+        "assignmentIds": [
+          "2029"
+        ],
+        "climate": "Curah hujan – Basah",
+        "wetness": "Lahan Kering",
+        "elevation": "Elevasi – Dataran Tinggi",
+        "fertility": "Kesuburan tanah – Tinggi"
+      },
+      {
+        "id": "[\"kiara payung\",\"filicium decipiens\"]",
+        "name": "Kiara Payung",
+        "latin": "Filicium decipiens",
+        "statuses": [
+          "Lito Gradasi 2"
+        ],
+        "assignmentIds": [
+          "2122"
+        ],
+        "climate": "Curah hujan – Basah",
+        "wetness": "Lahan Kering",
+        "elevation": "Elevasi – Dataran Tinggi",
+        "fertility": "Kesuburan tanah – Tinggi"
+      },
+      {
+        "id": "[\"biola cantik\",\"ficus lyrata\"]",
+        "name": "Biola Cantik",
+        "latin": "Ficus lyrata",
+        "statuses": [
+          "Lito Gradasi 2"
+        ],
+        "assignmentIds": [
+          "2167"
+        ],
+        "climate": "Curah hujan – Basah",
+        "wetness": "Lahan Kering",
+        "elevation": "Elevasi – Dataran Tinggi",
+        "fertility": "Kesuburan tanah – Tinggi"
+      },
+      {
+        "id": "[\"kecrutan\",\"spathodea campanulata\"]",
+        "name": "Kecrutan",
+        "latin": "Spathodea campanulata",
+        "statuses": [
+          "Lito Gradasi 2"
+        ],
+        "assignmentIds": [
+          "2407"
+        ],
+        "climate": "Curah hujan – Basah",
+        "wetness": "Lahan Kering",
+        "elevation": "Elevasi – Dataran Tinggi",
+        "fertility": "Kesuburan tanah – Tinggi"
+      },
+      {
+        "id": "[\"pohon beringin\",\"ficus benjamina\"]",
+        "name": "Pohon Beringin",
+        "latin": "Ficus benjamina",
+        "statuses": [
+          "Lito Gradasi 2"
+        ],
+        "assignmentIds": [
+          "2782"
+        ],
+        "climate": "Curah hujan – Basah",
+        "wetness": "Lahan Kering",
+        "elevation": "Elevasi – Dataran Tinggi",
+        "fertility": "Kesuburan tanah – Tinggi"
+      }
+    ],
+    "complete": true,
+    "pages": 1
+  },
+  "geometryComparison": null,
+  "requests": [
+    {
+      "request": {
+        "kind": "locations",
+        "province": "Jawa Barat",
+        "search": "",
+        "offset": 0,
+        "limit": 12,
+        "geometry": false
+      },
+      "outcome": "aborted",
+      "error": "signal is aborted without reason",
+      "id": 1
+    },
+    {
+      "request": {
+        "kind": "locations",
+        "province": "Jawa Barat",
+        "search": "",
+        "offset": 0,
+        "limit": 12,
+        "geometry": false
+      },
+      "outcome": "success",
+      "measurement": {
+        "layer": 0,
+        "url": "https://sigi.pu.go.id/serverpu/rest/services/Hosted/WETLA_6Provinsi_V1/FeatureServer/0/query?f=json&where=provinsi%3D%27Jawa+Barat%27&outFields=objectid%2Cprovinsi%2Ckabupaten_kota%2Ckecamatan%2Cid_wetla_kba%2Cid_wetla_lito%2Ckode_wetla_kba%2Ckode_wetla_lito%2Cdeskripsi_wetla_kba%2Cdeskripsi_wetla_lito%2Cdeskripsi_subur_kba%2Cdeskripsi_subur_lito%2Cdeskripsi_iklim%2Cdeskripsi_kebasahan%2Cdeskripsi_elevasi%2Cpenggunaan_lahan_22&returnGeometry=false&orderByFields=objectid&resultOffset=0&resultRecordCount=12&outSR=4326&returnZ=false&returnM=false",
+        "status": 200,
+        "headersMs": 211.5745009999955,
+        "downloadMs": 4.661711999971885,
+        "parseMs": 0.06761200001346879,
+        "totalMs": 216.33661499997834,
+        "decodedBytes": 9164,
+        "rows": 12,
+        "exceededTransferLimit": true,
+        "cache": "DISABLED",
+        "contentEncoding": "gzip",
+        "browserRequestMs": 304.60000014305115,
+        "browserParseMs": 0.09999990463256836,
+        "responseBytes": 7431
+      },
+      "id": 2
+    },
+    {
+      "request": {
+        "kind": "locations",
+        "province": "Jawa Barat",
+        "search": "Gununghalu",
+        "offset": 0,
+        "limit": 12,
+        "geometry": false
+      },
+      "outcome": "success",
+      "measurement": {
+        "layer": 0,
+        "url": "https://sigi.pu.go.id/serverpu/rest/services/Hosted/WETLA_6Provinsi_V1/FeatureServer/0/query?f=json&where=provinsi%3D%27Jawa+Barat%27+AND+%28UPPER%28kecamatan%29+LIKE+%27%25GUNUNGHALU%25%27+OR+UPPER%28kabupaten_kota%29+LIKE+%27%25GUNUNGHALU%25%27+OR+UPPER%28provinsi%29+LIKE+%27%25GUNUNGHALU%25%27%29&outFields=objectid%2Cprovinsi%2Ckabupaten_kota%2Ckecamatan%2Cid_wetla_kba%2Cid_wetla_lito%2Ckode_wetla_kba%2Ckode_wetla_lito%2Cdeskripsi_wetla_kba%2Cdeskripsi_wetla_lito%2Cdeskripsi_subur_kba%2Cdeskripsi_subur_lito%2Cdeskripsi_iklim%2Cdeskripsi_kebasahan%2Cdeskripsi_elevasi%2Cpenggunaan_lahan_22&returnGeometry=false&orderByFields=objectid&resultOffset=0&resultRecordCount=12&outSR=4326&returnZ=false&returnM=false",
+        "status": 200,
+        "headersMs": 370.26732600000105,
+        "downloadMs": 1.6173760000092443,
+        "parseMs": 0.10631100001046434,
+        "totalMs": 372.02913499998976,
+        "decodedBytes": 9225,
+        "rows": 12,
+        "exceededTransferLimit": true,
+        "cache": "DISABLED",
+        "contentEncoding": "gzip",
+        "browserRequestMs": 402.5,
+        "browserParseMs": 0,
+        "responseBytes": 7661
+      },
+      "id": 3
+    },
+    {
+      "request": {
+        "kind": "locations",
+        "province": "Jawa Barat",
+        "search": "Gununghalu",
+        "offset": 0,
+        "limit": 12,
+        "geometry": false
+      },
+      "outcome": "success",
+      "measurement": {
+        "layer": 0,
+        "url": "https://sigi.pu.go.id/serverpu/rest/services/Hosted/WETLA_6Provinsi_V1/FeatureServer/0/query?f=json&where=provinsi%3D%27Jawa+Barat%27+AND+%28UPPER%28kecamatan%29+LIKE+%27%25GUNUNGHALU%25%27+OR+UPPER%28kabupaten_kota%29+LIKE+%27%25GUNUNGHALU%25%27+OR+UPPER%28provinsi%29+LIKE+%27%25GUNUNGHALU%25%27%29&outFields=objectid%2Cprovinsi%2Ckabupaten_kota%2Ckecamatan%2Cid_wetla_kba%2Cid_wetla_lito%2Ckode_wetla_kba%2Ckode_wetla_lito%2Cdeskripsi_wetla_kba%2Cdeskripsi_wetla_lito%2Cdeskripsi_subur_kba%2Cdeskripsi_subur_lito%2Cdeskripsi_iklim%2Cdeskripsi_kebasahan%2Cdeskripsi_elevasi%2Cpenggunaan_lahan_22&returnGeometry=false&orderByFields=objectid&resultOffset=0&resultRecordCount=12&outSR=4326&returnZ=false&returnM=false",
+        "status": 200,
+        "headersMs": 214.2857129999902,
+        "downloadMs": 1.423808999999892,
+        "parseMs": 0.08516399998916313,
+        "totalMs": 215.8373239999928,
+        "decodedBytes": 9225,
+        "rows": 12,
+        "exceededTransferLimit": true,
+        "cache": "DISABLED",
+        "contentEncoding": "gzip",
+        "browserRequestMs": 229.79999995231628,
+        "browserParseMs": 0,
+        "responseBytes": 7658
+      },
+      "id": 4
+    },
+    {
+      "request": {
+        "kind": "locations",
+        "province": "Jawa Barat",
+        "search": "Gununghalu",
+        "offset": 0,
+        "limit": 12,
+        "geometry": true
+      },
+      "outcome": "success",
+      "measurement": {
+        "layer": 0,
+        "url": "https://sigi.pu.go.id/serverpu/rest/services/Hosted/WETLA_6Provinsi_V1/FeatureServer/0/query?f=json&where=provinsi%3D%27Jawa+Barat%27+AND+%28UPPER%28kecamatan%29+LIKE+%27%25GUNUNGHALU%25%27+OR+UPPER%28kabupaten_kota%29+LIKE+%27%25GUNUNGHALU%25%27+OR+UPPER%28provinsi%29+LIKE+%27%25GUNUNGHALU%25%27%29&outFields=objectid%2Cprovinsi%2Ckabupaten_kota%2Ckecamatan%2Cid_wetla_kba%2Cid_wetla_lito%2Ckode_wetla_kba%2Ckode_wetla_lito%2Cdeskripsi_wetla_kba%2Cdeskripsi_wetla_lito%2Cdeskripsi_subur_kba%2Cdeskripsi_subur_lito%2Cdeskripsi_iklim%2Cdeskripsi_kebasahan%2Cdeskripsi_elevasi%2Cpenggunaan_lahan_22&returnGeometry=true&orderByFields=objectid&resultOffset=0&resultRecordCount=12&outSR=4326&returnZ=false&returnM=false",
+        "status": 200,
+        "headersMs": 226.98221200000262,
+        "downloadMs": 4.006271000020206,
+        "parseMs": 0.33040899998741224,
+        "totalMs": 231.36661200001254,
+        "decodedBytes": 43672,
+        "rows": 12,
+        "exceededTransferLimit": true,
+        "cache": "DISABLED",
+        "contentEncoding": "gzip",
+        "browserRequestMs": 245.70000004768372,
+        "browserParseMs": 0,
+        "responseBytes": 7660
+      },
+      "id": 5
+    },
+    {
+      "request": {
+        "kind": "point",
+        "longitude": 107.29700509151542,
+        "latitude": -7.06424324594125,
+        "offset": 0
+      },
+      "outcome": "success",
+      "measurement": {
+        "layer": 0,
+        "url": "https://sigi.pu.go.id/serverpu/rest/services/Hosted/WETLA_6Provinsi_V1/FeatureServer/0/query?f=json&where=1%3D1&outFields=objectid%2Cprovinsi%2Ckabupaten_kota%2Ckecamatan%2Cid_wetla_kba%2Cid_wetla_lito%2Ckode_wetla_kba%2Ckode_wetla_lito%2Cdeskripsi_wetla_kba%2Cdeskripsi_wetla_lito%2Cdeskripsi_subur_kba%2Cdeskripsi_subur_lito%2Cdeskripsi_iklim%2Cdeskripsi_kebasahan%2Cdeskripsi_elevasi%2Cpenggunaan_lahan_22&returnGeometry=false&orderByFields=objectid&resultOffset=0&resultRecordCount=50&outSR=4326&returnZ=false&returnM=false&geometry=107.29700509151542%2C-7.06424324594125&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects",
+        "status": 200,
+        "headersMs": 53.7783739999868,
+        "downloadMs": 1.5219379999907687,
+        "parseMs": 0.0497730000060983,
+        "totalMs": 55.38089699999546,
+        "decodedBytes": 2966,
+        "rows": 1,
+        "exceededTransferLimit": false,
+        "cache": "DISABLED",
+        "contentEncoding": "gzip",
+        "browserRequestMs": 86.09999990463257,
+        "browserParseMs": 0,
+        "responseBytes": 1499
+      },
+      "id": 6
+    },
+    {
+      "request": {
+        "kind": "assignments",
+        "method": "kba",
+        "id": "WETLA-096",
+        "offset": 0
+      },
+      "outcome": "success",
+      "measurement": {
+        "layer": 2,
+        "url": "https://sigi.pu.go.id/serverpu/rest/services/Hosted/WETLA_6Provinsi_V1/FeatureServer/2/query?f=json&where=id_wetla%3D%27WETLA-096%27&outFields=objectid%2Cid_wetla%2Cnama_tanaman%2Cnama_latin%2Cstatus_pencocokan%2Cdeskripsi_subur%2Cdeskripsi_iklim%2Cdeskripsi_kebasahan%2Cdeskripsi_elevasi&returnGeometry=false&orderByFields=objectid&resultOffset=0&resultRecordCount=50",
+        "status": 200,
+        "headersMs": 60.38789800001541,
+        "downloadMs": 5.366628999996465,
+        "parseMs": 0.0976960000116378,
+        "totalMs": 65.89379900001222,
+        "decodedBytes": 10387,
+        "rows": 26,
+        "exceededTransferLimit": false,
+        "cache": "DISABLED",
+        "contentEncoding": "gzip",
+        "browserRequestMs": 107.90000009536743,
+        "browserParseMs": 0,
+        "responseBytes": 9064
+      },
+      "id": 7
+    },
+    {
+      "request": {
+        "kind": "assignments",
+        "method": "lito",
+        "id": "WETLA-144",
+        "offset": 0
+      },
+      "outcome": "success",
+      "measurement": {
+        "layer": 1,
+        "url": "https://sigi.pu.go.id/serverpu/rest/services/Hosted/WETLA_6Provinsi_V1/FeatureServer/1/query?f=json&where=id_wetla%3D%27WETLA-144%27&outFields=objectid%2Cid_wetla%2Cnama_tanaman%2Cnama_latin%2Cstatus_pencocokan%2Cdeskripsi_subur%2Cdeskripsi_iklim%2Cdeskripsi_kebasahan%2Cdeskripsi_elevasi&returnGeometry=false&orderByFields=objectid&resultOffset=0&resultRecordCount=50",
+        "status": 200,
+        "headersMs": 177.84821799999918,
+        "downloadMs": 1.9571929999801796,
+        "parseMs": 0.08758900000248104,
+        "totalMs": 179.95135799999116,
+        "decodedBytes": 10387,
+        "rows": 26,
+        "exceededTransferLimit": false,
+        "cache": "DISABLED",
+        "contentEncoding": "gzip",
+        "browserRequestMs": 200.90000009536743,
+        "browserParseMs": 0.09999990463256836,
+        "responseBytes": 9068
+      },
+      "id": 8
+    }
+  ],
+  "devModeProfiler": {
+    "enabled": true,
+    "samples": [
+      {
+        "id": "location-browser",
+        "phase": "mount",
+        "actualDuration": 3.8000001907348633,
+        "commitTime": 1592.4000000953674
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "mount",
+        "actualDuration": 0.6999998092651367,
+        "commitTime": 1592.4000000953674
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 1.7000000476837158,
+        "commitTime": 1625.1000001430511
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.39999985694885254,
+        "commitTime": 1625.1000001430511
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 1.3999998569488525,
+        "commitTime": 1647.2000000476837
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.20000004768371582,
+        "commitTime": 1647.2000000476837
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 5.599999904632568,
+        "commitTime": 1696.6000001430511
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 2.6000001430511475,
+        "commitTime": 1696.6000001430511
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 3.3999998569488525,
+        "commitTime": 1747.2999999523163
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.10000014305114746,
+        "commitTime": 1747.2999999523163
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 7.099999666213989,
+        "commitTime": 1950.5
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.3000001907348633,
+        "commitTime": 1950.5
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 4,
+        "commitTime": 1993.1000001430511
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.10000014305114746,
+        "commitTime": 1993.1000001430511
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 6.3999998569488525,
+        "commitTime": 2379.2000000476837
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.10000014305114746,
+        "commitTime": 2379.2000000476837
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 1.2999999523162842,
+        "commitTime": 2438
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.09999990463256836,
+        "commitTime": 2438
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 1.2000000476837158,
+        "commitTime": 2475.7000000476837
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0,
+        "commitTime": 2475.7000000476837
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 0.7000000476837158,
+        "commitTime": 2505.2999999523163
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.09999990463256836,
+        "commitTime": 2505.2999999523163
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 4.799999952316284,
+        "commitTime": 2864.2000000476837
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.09999990463256836,
+        "commitTime": 2864.2000000476837
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 4.599999904632568,
+        "commitTime": 2912.4000000953674
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.09999990463256836,
+        "commitTime": 2912.4000000953674
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 5.599999904632568,
+        "commitTime": 3341.7999999523163
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.20000004768371582,
+        "commitTime": 3341.7999999523163
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 3.9000000953674316,
+        "commitTime": 3570.5
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.09999990463256836,
+        "commitTime": 3570.5
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 3.200000286102295,
+        "commitTime": 3816.4000000953674
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.20000004768371582,
+        "commitTime": 3816.4000000953674
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 0.7000000476837158,
+        "commitTime": 4235.299999952316
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.09999990463256836,
+        "commitTime": 4235.299999952316
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 1,
+        "commitTime": 4269.200000047684
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.09999990463256836,
+        "commitTime": 4269.200000047684
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 0.5,
+        "commitTime": 4295
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.20000004768371582,
+        "commitTime": 4295
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 0.7999999523162842,
+        "commitTime": 4317.799999952316
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.10000014305114746,
+        "commitTime": 4317.799999952316
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 1,
+        "commitTime": 4343.400000095367
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.19999980926513672,
+        "commitTime": 4343.400000095367
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 1.5999999046325684,
+        "commitTime": 4410.400000095367
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.5,
+        "commitTime": 4410.400000095367
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 6.5,
+        "commitTime": 4479.600000143051
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.40000009536743164,
+        "commitTime": 4479.600000143051
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 1.9000000953674316,
+        "commitTime": 4549.700000047684
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.7999999523162842,
+        "commitTime": 4549.700000047684
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 0.9000000953674316,
+        "commitTime": 4658.900000095367
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 11.400000095367432,
+        "commitTime": 4658.900000095367
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 1.000000238418579,
+        "commitTime": 4725.200000047684
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 8.399999856948853,
+        "commitTime": 4725.200000047684
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 1,
+        "commitTime": 4797.299999952316
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.10000014305114746,
+        "commitTime": 4797.299999952316
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 0.8999998569488525,
+        "commitTime": 4833.5
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 0.40000009536743164,
+        "commitTime": 4833.5
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 0.9000000953674316,
+        "commitTime": 5038
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 13.799999713897705,
+        "commitTime": 5038
+      },
+      {
+        "id": "location-browser",
+        "phase": "update",
+        "actualDuration": 2.0999999046325684,
+        "commitTime": 5108.5
+      },
+      {
+        "id": "plant-recommendations",
+        "phase": "update",
+        "actualDuration": 10.500000238418579,
+        "commitTime": 5108.5
+      }
+    ],
+    "retainedSamples": 200
+  },
+  "nextFrameEstimateMs": 15.800000190734863,
+  "limitations": [
+    "Header wait includes connection, DNS, TLS, and upstream processing; it is not pure API compute.",
+    "Geometry is downloaded but not rendered. No map SDK is loaded, so ArcGIS rendering time cannot be quantified.",
+    "Decoded bytes are not compressed network transfer bytes.",
+    "Plant catalogue details are not loaded.",
+    "Two animation frames estimate a frame opportunity, not guaranteed paint completion."
+  ]
+}
