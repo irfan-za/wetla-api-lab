@@ -1,0 +1,662 @@
+{
+  "timestamp": "2026-10-04T16:57:06.156Z",
+  "transport": "actual local TanStack server HTTP + live SIGI",
+  "evidence": [
+    {
+      "url": "http://127.0.0.1:3106/api/query?kind=point&longitude=107.29700509151542&latitude=-7.06424324594125",
+      "result": {
+        "rows": [
+          {
+            "provinsi": "Jawa Barat",
+            "id_wetla_lito": "WETLA-144",
+            "deskripsi_iklim": "Basah",
+            "kabupaten_kota": "Bandung Barat",
+            "deskripsi_elevasi": ">800 m dpl",
+            "penggunaan_lahan_22": "Hutan Lahan Kering Sekunder",
+            "kode_wetla_kba": "F3-W4-E3-LK",
+            "deskripsi_wetla_lito": "Tinggi-Basah->800 m dpl-Lahan Kering",
+            "deskripsi_subur_lito": "Tinggi",
+            "kode_wetla_lito": "F5-W4-E3-LK",
+            "kecamatan": "Gununghalu",
+            "id_wetla_kba": "WETLA-096",
+            "deskripsi_wetla_kba": "Sedang-Basah->800 m dpl-Lahan Kering",
+            "deskripsi_subur_kba": "Sedang",
+            "objectid": 2893,
+            "deskripsi_kebasahan": "Lahan Kering"
+          }
+        ],
+        "hasMore": false,
+        "measurement": {
+          "layer": 0,
+          "url": "https://sigi.pu.go.id/serverpu/rest/services/Hosted/WETLA_6Provinsi_V1/FeatureServer/0/query?f=json&where=1%3D1&outFields=objectid%2Cprovinsi%2Ckabupaten_kota%2Ckecamatan%2Cid_wetla_kba%2Cid_wetla_lito%2Ckode_wetla_kba%2Ckode_wetla_lito%2Cdeskripsi_wetla_kba%2Cdeskripsi_wetla_lito%2Cdeskripsi_subur_kba%2Cdeskripsi_subur_lito%2Cdeskripsi_iklim%2Cdeskripsi_kebasahan%2Cdeskripsi_elevasi%2Cpenggunaan_lahan_22&returnGeometry=false&orderByFields=objectid&resultOffset=0&resultRecordCount=50&outSR=4326&returnZ=false&returnM=false&geometry=107.29700509151542%2C-7.06424324594125&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects",
+          "status": 200,
+          "headersMs": 277.80320099999517,
+          "downloadMs": 3.5587240000022575,
+          "parseMs": 0.06275399999867659,
+          "totalMs": 281.5368789999993,
+          "decodedBytes": 2966,
+          "rows": 1,
+          "exceededTransferLimit": false,
+          "cache": "DISABLED",
+          "contentEncoding": "gzip"
+        }
+      }
+    },
+    {
+      "url": "http://127.0.0.1:3106/api/query?kind=assignments&method=kba&id=WETLA-096",
+      "result": {
+        "rows": [
+          {
+            "status_pencocokan": "Lito Gradasi 1",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Kayu Putih Kuning",
+            "nama_latin": "Melaleuca 'Revolution Gold'",
+            "objectid": 128,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 1",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Janda Merana",
+            "nama_latin": "Salix babylonica",
+            "objectid": 384,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Dracaena ‘Song of India’",
+            "nama_latin": "Dracaena reflexa 'Song of India'",
+            "objectid": 1102,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Dracaena 'Song of Jamaica'",
+            "nama_latin": "Dracaena reflexa 'Song of Jamaica'",
+            "objectid": 1132,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Kayu Putih Kuning",
+            "nama_latin": "Melaleuca 'Revolution Gold'",
+            "objectid": 1192,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Pucuk Merah",
+            "nama_latin": "Syzygium myrtifolium",
+            "objectid": 1288,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Sikat Botol",
+            "nama_latin": "Callistemon viminalis",
+            "objectid": 1333,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Janda Merana",
+            "nama_latin": "Salix babylonica",
+            "objectid": 1744,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Leda/Pohon Pelangi",
+            "nama_latin": "Eucalyptus deglupta",
+            "objectid": 2011,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Kiara Payung",
+            "nama_latin": "Filicium decipiens",
+            "objectid": 2113,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Biola Cantik",
+            "nama_latin": "Ficus lyrata",
+            "objectid": 2158,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Kecrutan",
+            "nama_latin": "Spathodea campanulata",
+            "objectid": 2398,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Pohon Beringin",
+            "nama_latin": "Ficus benjamina",
+            "objectid": 2758,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 1",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Kayu Putih Kuning",
+            "nama_latin": "Melaleuca 'Revolution Gold'",
+            "objectid": 3060,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 1",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Janda Merana",
+            "nama_latin": "Salix babylonica",
+            "objectid": 3226,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Dracaena ‘Song of India’",
+            "nama_latin": "Dracaena reflexa 'Song of India'",
+            "objectid": 3684,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Dracaena 'Song of Jamaica'",
+            "nama_latin": "Dracaena reflexa 'Song of Jamaica'",
+            "objectid": 3702,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Kayu Putih Kuning",
+            "nama_latin": "Melaleuca 'Revolution Gold'",
+            "objectid": 3738,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Pucuk Merah",
+            "nama_latin": "Syzygium myrtifolium",
+            "objectid": 3798,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Sikat Botol",
+            "nama_latin": "Callistemon viminalis",
+            "objectid": 3825,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Janda Merana",
+            "nama_latin": "Salix babylonica",
+            "objectid": 4074,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Leda/Pohon Pelangi",
+            "nama_latin": "Eucalyptus deglupta",
+            "objectid": 4239,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Kiara Payung",
+            "nama_latin": "Filicium decipiens",
+            "objectid": 4293,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Biola Cantik",
+            "nama_latin": "Ficus lyrata",
+            "objectid": 4320,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Kecrutan",
+            "nama_latin": "Spathodea campanulata",
+            "objectid": 4464,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Sedang",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-096",
+            "nama_tanaman": "Pohon Beringin",
+            "nama_latin": "Ficus benjamina",
+            "objectid": 4692,
+            "deskripsi_kebasahan": "Lahan Kering"
+          }
+        ],
+        "hasMore": false,
+        "measurement": {
+          "layer": 2,
+          "url": "https://sigi.pu.go.id/serverpu/rest/services/Hosted/WETLA_6Provinsi_V1/FeatureServer/2/query?f=json&where=id_wetla%3D%27WETLA-096%27&outFields=objectid%2Cid_wetla%2Cnama_tanaman%2Cnama_latin%2Cstatus_pencocokan%2Cdeskripsi_subur%2Cdeskripsi_iklim%2Cdeskripsi_kebasahan%2Cdeskripsi_elevasi&returnGeometry=false&orderByFields=objectid&resultOffset=0&resultRecordCount=50",
+          "status": 200,
+          "headersMs": 60.240191000004415,
+          "downloadMs": 1.238615000002028,
+          "parseMs": 0.08017799999652198,
+          "totalMs": 61.60806500000035,
+          "decodedBytes": 10387,
+          "rows": 26,
+          "exceededTransferLimit": false,
+          "cache": "DISABLED",
+          "contentEncoding": "gzip"
+        }
+      }
+    },
+    {
+      "url": "http://127.0.0.1:3106/api/query?kind=assignments&method=lito&id=WETLA-144",
+      "result": {
+        "rows": [
+          {
+            "status_pencocokan": "Lito Gradasi 1",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Kayu Putih Kuning",
+            "nama_latin": "Melaleuca 'Revolution Gold'",
+            "objectid": 132,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 1",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Janda Merana",
+            "nama_latin": "Salix babylonica",
+            "objectid": 392,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Dracaena ‘Song of India’",
+            "nama_latin": "Dracaena reflexa 'Song of India'",
+            "objectid": 1108,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Dracaena 'Song of Jamaica'",
+            "nama_latin": "Dracaena reflexa 'Song of Jamaica'",
+            "objectid": 1138,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Kayu Putih Kuning",
+            "nama_latin": "Melaleuca 'Revolution Gold'",
+            "objectid": 1198,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Pucuk Merah",
+            "nama_latin": "Syzygium myrtifolium",
+            "objectid": 1297,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Sikat Botol",
+            "nama_latin": "Callistemon viminalis",
+            "objectid": 1342,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Janda Merana",
+            "nama_latin": "Salix babylonica",
+            "objectid": 1756,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Leda/Pohon Pelangi",
+            "nama_latin": "Eucalyptus deglupta",
+            "objectid": 2029,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Kiara Payung",
+            "nama_latin": "Filicium decipiens",
+            "objectid": 2122,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Biola Cantik",
+            "nama_latin": "Ficus lyrata",
+            "objectid": 2167,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Kecrutan",
+            "nama_latin": "Spathodea campanulata",
+            "objectid": 2407,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "Lito Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Pohon Beringin",
+            "nama_latin": "Ficus benjamina",
+            "objectid": 2782,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 1",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Kayu Putih Kuning",
+            "nama_latin": "Melaleuca 'Revolution Gold'",
+            "objectid": 3064,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 1",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Janda Merana",
+            "nama_latin": "Salix babylonica",
+            "objectid": 3234,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Dracaena ‘Song of India’",
+            "nama_latin": "Dracaena reflexa 'Song of India'",
+            "objectid": 3690,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Dracaena 'Song of Jamaica'",
+            "nama_latin": "Dracaena reflexa 'Song of Jamaica'",
+            "objectid": 3708,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Kayu Putih Kuning",
+            "nama_latin": "Melaleuca 'Revolution Gold'",
+            "objectid": 3744,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Pucuk Merah",
+            "nama_latin": "Syzygium myrtifolium",
+            "objectid": 3807,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Sikat Botol",
+            "nama_latin": "Callistemon viminalis",
+            "objectid": 3834,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Janda Merana",
+            "nama_latin": "Salix babylonica",
+            "objectid": 4086,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Leda/Pohon Pelangi",
+            "nama_latin": "Eucalyptus deglupta",
+            "objectid": 4257,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Kiara Payung",
+            "nama_latin": "Filicium decipiens",
+            "objectid": 4302,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Biola Cantik",
+            "nama_latin": "Ficus lyrata",
+            "objectid": 4329,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Kecrutan",
+            "nama_latin": "Spathodea campanulata",
+            "objectid": 4473,
+            "deskripsi_kebasahan": "Lahan Kering"
+          },
+          {
+            "status_pencocokan": "KBA Gradasi 2",
+            "deskripsi_iklim": "Curah hujan – Basah",
+            "deskripsi_subur": "Kesuburan tanah – Tinggi",
+            "deskripsi_elevasi": "Elevasi – Dataran Tinggi",
+            "id_wetla": "WETLA-144",
+            "nama_tanaman": "Pohon Beringin",
+            "nama_latin": "Ficus benjamina",
+            "objectid": 4716,
+            "deskripsi_kebasahan": "Lahan Kering"
+          }
+        ],
+        "hasMore": false,
+        "measurement": {
+          "layer": 1,
+          "url": "https://sigi.pu.go.id/serverpu/rest/services/Hosted/WETLA_6Provinsi_V1/FeatureServer/1/query?f=json&where=id_wetla%3D%27WETLA-144%27&outFields=objectid%2Cid_wetla%2Cnama_tanaman%2Cnama_latin%2Cstatus_pencocokan%2Cdeskripsi_subur%2Cdeskripsi_iklim%2Cdeskripsi_kebasahan%2Cdeskripsi_elevasi&returnGeometry=false&orderByFields=objectid&resultOffset=0&resultRecordCount=50",
+          "status": 200,
+          "headersMs": 59.11037699999724,
+          "downloadMs": 2.9832380000007106,
+          "parseMs": 0.11994200000481214,
+          "totalMs": 62.263787999996566,
+          "decodedBytes": 10387,
+          "rows": 26,
+          "exceededTransferLimit": false,
+          "cache": "DISABLED",
+          "contentEncoding": "gzip"
+        }
+      }
+    }
+  ]
+}

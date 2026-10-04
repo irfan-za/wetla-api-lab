@@ -1,0 +1,72 @@
+{
+  "timestamp": "2026-10-04T17:00:10.729Z",
+  "environment": "development server; live upstream; no mocked payloads",
+  "base": "http://127.0.0.1:3106",
+  "checks": [
+    "Initial attribute-only page has 12 cards; no plant prefetch",
+    "Search is province-scoped; geometry experiment matches polygon IDs",
+    "Exact coordinate selects Gununghalu polygon 2893; KBA has 11 plant identities",
+    "Switching to Litologi queries its separate ID; 11 plant identities",
+    "Export contains real browser/upstream measurements and complete plant results",
+    "No horizontal page overflow at 375, 768, 1024 and 1440px",
+    "Empty search clears previous selection and plant results",
+    "Invalid wildcard search is inline error without network request"
+  ],
+  "layouts": [
+    {
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1440
+    },
+    {
+      "width": 1024,
+      "viewport": 1024,
+      "scroll": 1024
+    },
+    {
+      "width": 768,
+      "viewport": 768,
+      "scroll": 768
+    },
+    {
+      "width": 375,
+      "viewport": 375,
+      "scroll": 375
+    }
+  ],
+  "apiCalls": [
+    {
+      "url": "http://127.0.0.1:3106/api/query?kind=locations&province=Jawa+Barat&search=&offset=0&limit=12&geometry=0",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3106/api/query?kind=locations&province=Jawa+Barat&search=Gununghalu&offset=0&limit=12&geometry=0",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3106/api/query?kind=locations&province=Jawa+Barat&search=Gununghalu&offset=0&limit=12&geometry=0",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3106/api/query?kind=locations&province=Jawa+Barat&search=Gununghalu&offset=0&limit=12&geometry=1",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3106/api/query?kind=point&longitude=107.29700509151542&latitude=-7.06424324594125&offset=0",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3106/api/query?kind=assignments&method=kba&id=WETLA-096&offset=0",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3106/api/query?kind=assignments&method=lito&id=WETLA-144&offset=0",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3106/api/query?kind=locations&province=Jawa+Barat&search=zzqwetlanomatch&offset=0&limit=12&geometry=0",
+      "status": 200
+    }
+  ],
+  "errors": []
+}

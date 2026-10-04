@@ -4,7 +4,7 @@ A separate TanStack Start diagnostic app for the existing six-province WETLA Fea
 
 ## Checkpoint status
 
-The initial `main` commit is a **work-in-progress API/scaffold checkpoint**, not a completed browser application. Query helpers and the server adapter are tested; the card UI and its browser/type verification are being completed on `feat/card-explorer`. The UI instructions below describe the intended completed workflow. Do not deploy this checkpoint as a finished application.
+The card explorer, router entry, root route and Vercel Nitro adapter are included on `feat/card-explorer`. Local tests, strict types, lint, live API-route checks and browser flows have passed. A full production build and deployed Vercel URL are **not yet verified**; CI/Vercel must pass before production sign-off.
 
 ## Run
 
@@ -57,7 +57,17 @@ Success: `{rows,hasMore,measurement}`. `hasMore` follows ArcGIS `exceededTransfe
 
 ## Deployment status
 
-Local development artifact only unless a verified deployment URL is documented. `vercel.json` preserves API routes (no catch-all SPA rewrite); Vercel's TanStack Start integration owns SSR routing. On the low-RAM host no production build is run. Validate `pnpm build` in CI/a suitable environment before publishing.
+Local development artifact only unless a verified deployment URL is documented. `vercel.json` preserves API routes (no catch-all SPA rewrite). `nitro/vite` packages SSR and server routes for Vercel; the preset is auto-detected by Vercel. The config can be smoke-tested without bundling via `NITRO_PRESET=vercel node scripts/verify-config.mjs`. On the low-RAM host no production build is run. Validate `pnpm build` in CI/Vercel before publishing.
+
+Vercel project settings:
+- Framework: **TanStack Start**
+- Root Directory: repository root (`./`)
+- Install Command: `pnpm install --frozen-lockfile`
+- Build Command: `pnpm build`
+- Output Directory: framework default; do not override to a static `dist/` folder.
+- Production branch: `main`. Merge the reviewed feature branch first; redeploying the old API-only commit will reproduce the missing-router failure.
+
+In development, React StrictMode replays the initial effect. The export may contain an aborted initial request followed by a successful one; this is development effect replay, not an automatic network-error retry.
 
 ## Scope boundary
 

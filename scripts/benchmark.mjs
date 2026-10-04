@@ -84,4 +84,4 @@ console.log(
     2,
   ),
 );
-console.log("Saved " + path.pathname);
+console.log(`Saved ${path.pathname}`);
